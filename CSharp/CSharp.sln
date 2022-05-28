@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "121_BestTimeToBuyAndSellSto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_ValidParentheses", "20_ValidParentheses\20_ValidParentheses.csproj", "{4FA7D8F0-780B-4933-8B48-5E4E13FEACB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "155_MinStack", "155_MinStack\155_MinStack.csproj", "{31AAFCA6-08CC-4389-9D54-1F6DC148D9BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{4FA7D8F0-780B-4933-8B48-5E4E13FEACB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FA7D8F0-780B-4933-8B48-5E4E13FEACB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FA7D8F0-780B-4933-8B48-5E4E13FEACB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31AAFCA6-08CC-4389-9D54-1F6DC148D9BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31AAFCA6-08CC-4389-9D54-1F6DC148D9BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31AAFCA6-08CC-4389-9D54-1F6DC148D9BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31AAFCA6-08CC-4389-9D54-1F6DC148D9BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
