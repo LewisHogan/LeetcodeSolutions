@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_ValidParentheses", "20_V
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "155_MinStack", "155_MinStack\155_MinStack.csproj", "{31AAFCA6-08CC-4389-9D54-1F6DC148D9BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "704_BinarySearch", "704_BinarySearch\704_BinarySearch.csproj", "{321889DC-7957-4818-983E-E2E2BEAD967C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{31AAFCA6-08CC-4389-9D54-1F6DC148D9BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31AAFCA6-08CC-4389-9D54-1F6DC148D9BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31AAFCA6-08CC-4389-9D54-1F6DC148D9BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{321889DC-7957-4818-983E-E2E2BEAD967C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{321889DC-7957-4818-983E-E2E2BEAD967C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{321889DC-7957-4818-983E-E2E2BEAD967C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{321889DC-7957-4818-983E-E2E2BEAD967C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
