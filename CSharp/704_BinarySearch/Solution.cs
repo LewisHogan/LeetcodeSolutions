@@ -4,7 +4,7 @@ public class Solution
     public int Search(int[] nums, int target)
     {
         var lowIndex = 0;
-        var highIndex = 0;
+        var highIndex = nums.Length - 1;
 
         while (lowIndex <= highIndex)
         {
