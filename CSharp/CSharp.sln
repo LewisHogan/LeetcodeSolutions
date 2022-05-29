@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "704_BinarySearch", "704_Bin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "206_ReverseLinkedList", "206_ReverseLinkedList\206_ReverseLinkedList.csproj", "{9C070383-8095-45E3-8FAE-C16B9BBE2E72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_MergeTwoSortedLists", "21_MergeTwoSortedLists\21_MergeTwoSortedLists.csproj", "{69F65EC8-817B-4291-A622-B13BC1CD6C7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{9C070383-8095-45E3-8FAE-C16B9BBE2E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C070383-8095-45E3-8FAE-C16B9BBE2E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C070383-8095-45E3-8FAE-C16B9BBE2E72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F65EC8-817B-4291-A622-B13BC1CD6C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F65EC8-817B-4291-A622-B13BC1CD6C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F65EC8-817B-4291-A622-B13BC1CD6C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F65EC8-817B-4291-A622-B13BC1CD6C7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
