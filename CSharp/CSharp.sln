@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_MergeTwoSortedLists", "2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "141_LinkedListCycle", "141_LinkedListCycle\141_LinkedListCycle.csproj", "{93D35181-9268-48F5-AB0E-A43C9E60D3C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "226_InvertBinaryTree", "226_InvertBinaryTree\226_InvertBinaryTree.csproj", "{07BFD191-CF1E-46F8-9C09-71BB345D2BE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{93D35181-9268-48F5-AB0E-A43C9E60D3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93D35181-9268-48F5-AB0E-A43C9E60D3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93D35181-9268-48F5-AB0E-A43C9E60D3C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07BFD191-CF1E-46F8-9C09-71BB345D2BE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07BFD191-CF1E-46F8-9C09-71BB345D2BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07BFD191-CF1E-46F8-9C09-71BB345D2BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07BFD191-CF1E-46F8-9C09-71BB345D2BE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
