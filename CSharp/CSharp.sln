@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "141_LinkedListCycle", "141_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "226_InvertBinaryTree", "226_InvertBinaryTree\226_InvertBinaryTree.csproj", "{07BFD191-CF1E-46F8-9C09-71BB345D2BE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "104_MaxDepthOfBinaryTree", "104_MaxDepthOfBinaryTree\104_MaxDepthOfBinaryTree.csproj", "{FEA2B2C0-3CC4-4ADA-BE59-D7525F6F7C59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{07BFD191-CF1E-46F8-9C09-71BB345D2BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07BFD191-CF1E-46F8-9C09-71BB345D2BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07BFD191-CF1E-46F8-9C09-71BB345D2BE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA2B2C0-3CC4-4ADA-BE59-D7525F6F7C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA2B2C0-3CC4-4ADA-BE59-D7525F6F7C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA2B2C0-3CC4-4ADA-BE59-D7525F6F7C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA2B2C0-3CC4-4ADA-BE59-D7525F6F7C59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
